@@ -1,5 +1,5 @@
 # jsCreateMessage
-This program generates a random message out of three differente arrays.
+This program generates a random message out of three different arrays.
 ## Table of Contents
 1. Technology
 2. Code Description
